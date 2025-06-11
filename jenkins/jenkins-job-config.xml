@@ -1,0 +1,7 @@
+<project>
+  <builders>
+    <hudson.tasks.Shell>
+      <command>echo "Build Job Placeholder"</command>
+    </hudson.tasks.Shell>
+  </builders>
+</project>

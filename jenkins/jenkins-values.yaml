@@ -1,0 +1,5 @@
+controller:
+  adminUser: admin
+  adminPassword: admin
+  serviceType: NodePort
+  nodePort: 32000
